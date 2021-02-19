@@ -5,6 +5,10 @@
 #### How Install?
 
 1️⃣ <strong> Install Dependencies <strong/>
-...
-  yarn install
-...
+`yarn install`
+  
+2️⃣ <strong> Change File <strong/>
+`./src/tmp/data.csv`
+  
+3️⃣ <strong> Run <strong/>
+`yarn ./src/app.js`
