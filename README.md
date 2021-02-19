@@ -5,6 +5,6 @@
 #### How Install?
 
 1️⃣ <strong> Install Dependencies <strong/>
-{% filename %}
+{% filename %}command-line{% endfilename %}
   yarn install
-{% endfilename %}
+{% filename %}.gitignore{% endfilename %}
