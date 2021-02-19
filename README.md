@@ -3,7 +3,7 @@
 <img src="https://i.ibb.co/pXPBpdh/Sem-Ti-tulo.png"/>
 
 ### Description
-* 😁 This project aims to help people looking for this type of tool, use as you wish. You are free to improve it. * </br>
+😁  * This project aims to help people looking for this type of tool, use as you wish. You are free to improve it. * </br>
 
 ### How Install?
 
