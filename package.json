@@ -1,0 +1,10 @@
+{
+  "name": "Excel to Html and PDF Converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "html-pdf": "^2.2.0"
+  }
+}
