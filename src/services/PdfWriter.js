@@ -6,4 +6,4 @@ class PDFWriter{
   }
 }
 
-module.exports = PDFWriter
+module.exports = PDFWrit
