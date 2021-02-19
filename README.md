@@ -17,6 +17,5 @@
 `yarn ./src/app.js`
 
 <img src="https://icon-icons.com/icons2/2108/PNG/64/javascript_icon_130900.png"/>
-<p></p>
 <img src="https://icon-icons.com/icons2/2415/PNG/64/nodejs_plain_wordmark_logo_icon_146410.png"/>
 
