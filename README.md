@@ -5,4 +5,6 @@
 #### How Install?
 
 1️⃣ <strong> Install Dependencies <strong/>
-{% filename %}yarn install{% endfilename %}
+{% filename %}
+  yarn install
+{% endfilename %}
